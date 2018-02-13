@@ -6,6 +6,10 @@ Single Java class that implements Bernoulli and Multinomial Naive Bayes Classifi
 
 K-fold cross validation is also implemented in Java, rather than using external libraries for dataset preparation.
 
+Dataset can be found in http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
+
+
+
 
 
 
